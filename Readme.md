@@ -1,4 +1,4 @@
-##Semi-Supervised Learning Algorithms
+## Semi-Supervised Learning Algorithms
 
 This Folder contains the submission of the Computer Vision Final Project as per the requirements for the course NNTI WS2021/22.
 
